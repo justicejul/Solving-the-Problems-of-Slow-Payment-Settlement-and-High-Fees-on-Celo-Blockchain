@@ -2,34 +2,49 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [How Celo Works](#how_celo_works)
-* [The Problems with Traditional Payment Systems](#The_Problems_with_Traditional_Payment_Systems)
-* [How Celo Blockchain Solves the Problems](#How_Celo_Blockchain_Solves_the_Problems)
-  * [Fast Payments](#Fast_Payments) 
-  * [Cheap Payments](#Cheap_Payments)
-* [Advantages of Celo Blockchain](#Advantages_of_Celo_Blockchain) 
+* [How Celo Works](#how-celo-works)
+* [The Problems with Traditional Payment Systems](#the-problems-with-traditional-payment-systems)
+  * [Slow payment settlement](#1-slow-payment-settlement)
+  * [High Fees](#2-high-fees)
+  * [Lack of financial inclusion](#3-lack-of-financial-inclusion)
+* [How Celo Blockchain Solves the Problems](#how-celo-blockchain-solves-the-problems)
+  * [Fast Payments](#fast-payments) 
+  * [Cheap Payments](#cheap-payments)
+* [Advantages of Celo Blockchain](#advantages-of-celo-blockchain) 
 * [Conclusion](#conclusion) 
 
 
-### Introduction<a name="introduction"></a>
+### Introduction
 
-In today's world, payment systems are an integral part of our daily lives. We use payment systems for 
-everything from buying groceries to paying for our bills. However, traditional payment systems often 
-come with their own set of problems, including slow payment settlement and high fees. Fortunately, 
-with the advent of blockchain technology, a new solution has emerged: the Celo blockchain. In this article, 
-we will explore how the Celo blockchain can solve the problems of slow payment settlement and high fees.
+In the modern world, payment systems play a vital role in facilitating our day-to-day transactions, ranging from purchasing groceries to settling bills. However, conventional payment systems are often hindered by various issues, such as slow payment settlement and high fees, which can be cumbersome to users. Fortunately, blockchain technology has introduced a new solution - the Celo blockchain - that addresses these challenges. This article aims to investigate how the Celo blockchain can mitigate the problems of slow payment settlement and high fees associated with traditional payment systems.
 
-### The Problems with Traditional Payment Systems<a name="The_Problems_with_Traditional_Payment_Systems"></a>
+### How Celo Works
 
-Traditional payment systems are centralized, which means that they are controlled by a single entity, such as a bank or a payment processor. This creates several problems:
-1. Slow payment settlement: Traditional payment systems can take several days to settle a payment. This is because payments have to go through several intermediaries, such as banks and payment processors, before they can be settled.
-2. High fees: Traditional payment systems often charge high fees for cross-border payments. This is because banks and payment processors charge fees for their services, and these fees can add up quickly.
-3. Lack of financial inclusion: Traditional payment systems can exclude people who do not have access to banking services. This is because banks often require a minimum balance or credit score to open an account, which can make it difficult for people with low incomes or no credit history to access financial services.
+Celo is a blockchain platform that aims to provide a fast, secure, and low-cost payment solution to users. It utilizes a unique consensus mechanism called proof-of-stake, which allows for efficient transaction processing and a more energy-efficient blockchain.
 
-### How Celo Blockchain Solves the Problems<a name="How_Celo_Blockchain_Solves_the_Problems"></a>
+One of the ways that Celo solves the problem of slow payment settlement is through its fast confirmation times. Transactions on the Celo blockchain are confirmed in a matter of seconds, compared to traditional payment systems that can take several days to settle. This quick settlement time is possible due to the platform's efficient network design and consensus mechanism.
+
+Another way that Celo addresses the problem of high fees is through its low transaction costs. Celo's network is designed to handle a high volume of transactions at a low cost. This is possible because of its proof-of-stake consensus mechanism, which ensures that transaction processing is fast and efficient, reducing the need for high fees.
+
+Furthermore, Celo has implemented a stablecoin called the Celo Dollar (cUSD) to provide a stable and reliable value for users. This stablecoin is pegged to the US dollar and is used for transactions on the Celo network. By using a stablecoin, Celo can avoid the volatility associated with cryptocurrencies, ensuring that users can transact with confidence and predictability.
+
+Overall, Celo's unique consensus mechanism, fast confirmation times, low transaction costs, and stablecoin offering make it a compelling solution to the problems of slow payment settlement and high fees. The platform has the potential to revolutionize the way we transact and make payments, providing a fast, secure, and cost-effective alternative to traditional payment systems.
+
+### The Problems with Traditional Payment Systems
+
+Traditional payment systems are centralized, which means they are controlled by a single entity like a bank or a payment processor. This model creates several challenges, including slow payment settlement, high fees, and lack of financial inclusion.
+
+### 1. Slow payment settlement
+The first problem with traditional payment systems is the slow payment settlement process. Payments can take several days to settle because they need to go through multiple intermediaries such as banks and payment processors before the payment can be settled. Each intermediary takes time to verify and authorize the transaction, which increases the overall settlement time.
+### 2. High fees
+The second challenge with traditional payment systems is the high fees associated with cross-border payments. Banks and payment processors charge fees for their services, which can add up quickly, making it expensive to transfer money internationally.
+### 3. Lack of financial inclusion
+Lastly on this course, traditional payment systems often exclude individuals who do not have access to banking services. Banks typically require a minimum balance or credit score to open an account, which can be a barrier for people with low incomes or no credit history to access financial services.
+
+### How Celo Blockchain Solves the Problems
 The Celo blockchain is a decentralized payment system that can solve the problems of slow payment settlement and high fees. Here's how:
 
-### Fast Payments<a name="Fast_Payments"></a>
+### Fast Payments
 The Celo blockchain uses smart contracts to process payments. Smart contracts are like computer programs that can automatically 
 execute a transaction when certain conditions are met. This means that payments can be settled almost instantly, without the need 
 for intermediaries. For example, if you want to send money to someone on the Celo blockchain, you can do so in just a few seconds, 
